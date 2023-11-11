@@ -1,0 +1,614 @@
+2023-09-26 22:13:48,868 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9277610>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:13:48,868 ERROR Server is down with status code None
+2023-09-26 22:13:53,895 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9277700>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:13:53,896 ERROR Server is down with status code None
+2023-09-26 22:13:53,901 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:13:53,910 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:13:53,910 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:13:58,941 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9277a30>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:13:58,941 ERROR Server is down with status code None
+2023-09-26 22:14:03,965 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9277d90>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:14:03,966 ERROR Server is down with status code None
+2023-09-26 22:14:03,966 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:14:03,974 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:14:03,974 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:14:09,000 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9130070>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:14:09,000 ERROR Server is down with status code None
+2023-09-26 22:14:14,026 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9130040>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:14:14,026 ERROR Server is down with status code None
+2023-09-26 22:14:14,027 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:14:14,035 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:14:14,035 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:14:19,059 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb91323e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:14:19,059 ERROR Server is down with status code None
+2023-09-26 22:14:24,080 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9132650>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:14:24,080 ERROR Server is down with status code None
+2023-09-26 22:14:24,081 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:14:24,092 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:14:24,092 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:14:29,117 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb91cd2a0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:14:29,117 ERROR Server is down with status code None
+2023-09-26 22:14:34,143 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb91cea10>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:14:34,143 ERROR Server is down with status code None
+2023-09-26 22:14:34,144 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:14:34,151 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:14:34,151 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:14:39,294 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb91cf370>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:14:39,294 ERROR Server is down with status code None
+2023-09-26 22:14:44,322 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb91cf250>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:14:44,322 ERROR Server is down with status code None
+2023-09-26 22:14:44,323 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:14:44,332 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:14:44,332 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:14:49,354 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9277b80>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:14:49,355 ERROR Server is down with status code None
+2023-09-26 22:14:54,383 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9277610>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:14:54,384 ERROR Server is down with status code None
+2023-09-26 22:14:54,385 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:14:54,395 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:14:54,395 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:14:59,420 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9133790>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:14:59,420 ERROR Server is down with status code None
+2023-09-26 22:15:04,443 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9131f90>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:15:04,444 ERROR Server is down with status code None
+2023-09-26 22:15:04,445 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:15:04,454 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:15:04,454 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:15:09,479 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9131bd0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:15:09,479 ERROR Server is down with status code None
+2023-09-26 22:15:14,505 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9132620>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:15:14,505 ERROR Server is down with status code None
+2023-09-26 22:15:14,506 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:15:14,512 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:15:14,513 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:15:19,539 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9131e40>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:15:19,539 ERROR Server is down with status code None
+2023-09-26 22:15:24,563 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9131fc0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:15:24,564 ERROR Server is down with status code None
+2023-09-26 22:15:24,565 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:15:24,573 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:15:24,575 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:15:29,598 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9133dc0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:15:29,599 ERROR Server is down with status code None
+2023-09-26 22:15:34,625 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb91319f0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:15:34,626 ERROR Server is down with status code None
+2023-09-26 22:15:34,627 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:15:34,635 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:15:34,636 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:15:39,661 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9132980>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:15:39,663 ERROR Server is down with status code None
+2023-09-26 22:15:44,689 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb91320e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:15:44,689 ERROR Server is down with status code None
+2023-09-26 22:15:44,690 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:15:44,702 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:15:44,702 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:15:49,729 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9277820>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:15:49,729 ERROR Server is down with status code None
+2023-09-26 22:15:54,758 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9277a00>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:15:54,759 ERROR Server is down with status code None
+2023-09-26 22:15:54,760 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:15:54,766 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 22:15:54,766 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:15:59,794 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3fb9130040>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:15:59,794 ERROR Server is down with status code None
+2023-09-26 22:24:14,154 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340b640>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:24:14,155 ERROR Server is down with status code None
+2023-09-26 22:24:19,181 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340b730>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:24:19,181 ERROR Server is down with status code None
+2023-09-26 22:24:19,183 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:24:19,560 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:24:19,560 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:24:24,584 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340ba60>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:24:24,584 ERROR Server is down with status code None
+2023-09-26 22:24:29,610 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340bdc0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:24:29,610 ERROR Server is down with status code None
+2023-09-26 22:24:29,611 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:24:29,933 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:24:29,933 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:24:34,960 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c4070>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:24:34,960 ERROR Server is down with status code None
+2023-09-26 22:24:39,984 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c4040>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:24:39,984 ERROR Server is down with status code None
+2023-09-26 22:24:39,985 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:24:40,310 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:24:40,310 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:24:45,334 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c63e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:24:45,335 ERROR Server is down with status code None
+2023-09-26 22:24:50,360 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c66e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:24:50,360 ERROR Server is down with status code None
+2023-09-26 22:24:50,361 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:24:50,704 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:24:50,704 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:24:55,725 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c3369450>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:24:55,726 ERROR Server is down with status code None
+2023-09-26 22:25:00,799 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c336abc0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:25:00,799 ERROR Server is down with status code None
+2023-09-26 22:25:00,800 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:25:01,116 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:25:01,116 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:25:06,149 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c336ac80>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:25:06,149 ERROR Server is down with status code None
+2023-09-26 22:25:11,271 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c3368880>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:25:11,271 ERROR Server is down with status code None
+2023-09-26 22:25:11,272 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:25:11,612 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:25:11,613 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:25:16,637 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340bb80>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:25:16,637 ERROR Server is down with status code None
+2023-09-26 22:25:21,662 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340ada0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:25:21,664 ERROR Server is down with status code None
+2023-09-26 22:25:21,665 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:25:22,040 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:25:22,041 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:25:27,156 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c7a60>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:25:27,156 ERROR Server is down with status code None
+2023-09-26 22:25:32,267 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5e10>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:25:32,268 ERROR Server is down with status code None
+2023-09-26 22:25:32,269 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:25:32,646 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:25:32,646 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:25:37,673 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c6f50>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:25:37,673 ERROR Server is down with status code None
+2023-09-26 22:25:42,757 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c4040>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:25:42,758 ERROR Server is down with status code None
+2023-09-26 22:25:42,759 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:25:43,116 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:25:43,116 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:25:48,135 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5c30>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:25:48,136 ERROR Server is down with status code None
+2023-09-26 22:25:53,163 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c6110>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:25:53,163 ERROR Server is down with status code None
+2023-09-26 22:25:53,165 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:25:53,537 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:25:53,537 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:25:58,564 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c7f70>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:25:58,564 ERROR Server is down with status code None
+2023-09-26 22:26:03,587 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5840>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:26:03,588 ERROR Server is down with status code None
+2023-09-26 22:26:03,589 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:26:03,941 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:26:03,941 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:26:08,968 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c60e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:26:08,968 ERROR Server is down with status code None
+2023-09-26 22:26:13,992 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5cc0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:26:13,992 ERROR Server is down with status code None
+2023-09-26 22:26:13,993 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:26:14,350 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:26:14,352 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:26:19,378 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340ac20>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:26:19,379 ERROR Server is down with status code None
+2023-09-26 22:26:24,404 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340bf40>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:26:24,405 ERROR Server is down with status code None
+2023-09-26 22:26:24,406 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:26:24,745 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:26:24,746 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:26:29,773 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c7d90>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:26:29,773 ERROR Server is down with status code None
+2023-09-26 22:26:34,800 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c4f10>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:26:34,801 ERROR Server is down with status code None
+2023-09-26 22:26:34,802 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:26:35,094 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:26:35,094 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:26:40,120 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c73a0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:26:40,120 ERROR Server is down with status code None
+2023-09-26 22:26:45,144 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c4a30>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:26:45,144 ERROR Server is down with status code None
+2023-09-26 22:26:45,145 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:26:45,475 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:26:45,477 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:26:50,507 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c4c10>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:26:50,507 ERROR Server is down with status code None
+2023-09-26 22:26:55,529 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c7130>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:26:55,530 ERROR Server is down with status code None
+2023-09-26 22:26:55,531 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:26:55,882 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:26:55,882 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:27:00,909 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c4f70>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:27:00,909 ERROR Server is down with status code None
+2023-09-26 22:27:05,937 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c7400>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:27:05,938 ERROR Server is down with status code None
+2023-09-26 22:27:05,939 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:27:06,305 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:27:06,305 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:27:11,331 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c70d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:27:11,332 ERROR Server is down with status code None
+2023-09-26 22:27:16,361 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5f90>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:27:16,361 ERROR Server is down with status code None
+2023-09-26 22:27:16,363 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:27:16,719 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:27:16,720 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:27:21,745 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340b610>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:27:21,746 ERROR Server is down with status code None
+2023-09-26 22:27:26,775 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340b6a0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:27:26,775 ERROR Server is down with status code None
+2023-09-26 22:27:26,777 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:27:27,130 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:27:27,130 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:27:32,160 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c4753b80>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:27:32,161 ERROR Server is down with status code None
+2023-09-26 22:27:37,201 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c4753190>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:27:37,202 ERROR Server is down with status code None
+2023-09-26 22:27:37,203 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:27:37,627 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:27:37,627 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:27:42,652 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340ba60>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:27:42,653 ERROR Server is down with status code None
+2023-09-26 22:27:47,676 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340b340>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:27:47,677 ERROR Server is down with status code None
+2023-09-26 22:27:47,678 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:27:47,999 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:27:48,000 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:27:53,025 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340bca0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:27:53,026 ERROR Server is down with status code None
+2023-09-26 22:27:58,077 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340b820>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:27:58,078 ERROR Server is down with status code None
+2023-09-26 22:27:58,078 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:27:58,416 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:27:58,416 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:28:03,439 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340b730>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:28:03,440 ERROR Server is down with status code None
+2023-09-26 22:28:08,555 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340ae00>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:28:08,556 ERROR Server is down with status code None
+2023-09-26 22:28:08,557 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:28:08,933 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:28:08,933 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:28:13,959 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c47536d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:28:13,959 ERROR Server is down with status code None
+2023-09-26 22:28:19,029 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c4753760>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:28:19,030 ERROR Server is down with status code None
+2023-09-26 22:28:19,031 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:28:19,375 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:28:19,375 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:28:24,414 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340aef0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:28:24,415 ERROR Server is down with status code None
+2023-09-26 22:28:29,521 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340b9d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:28:29,523 ERROR Server is down with status code None
+2023-09-26 22:28:29,524 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:28:29,813 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:28:29,813 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:28:34,841 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c4753490>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:28:34,842 ERROR Server is down with status code None
+2023-09-26 22:28:39,893 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c4753be0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:28:39,894 ERROR Server is down with status code None
+2023-09-26 22:28:39,895 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:28:40,232 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:28:40,233 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:28:45,268 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c51e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:28:45,269 ERROR Server is down with status code None
+2023-09-26 22:28:50,385 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c4640>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:28:50,386 ERROR Server is down with status code None
+2023-09-26 22:28:50,387 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:28:50,733 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:28:50,734 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:28:55,759 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5690>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:28:55,759 ERROR Server is down with status code None
+2023-09-26 22:29:00,866 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c6050>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:29:00,866 ERROR Server is down with status code None
+2023-09-26 22:29:00,867 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:29:01,204 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:29:01,204 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:29:06,237 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c4550>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:29:06,238 ERROR Server is down with status code None
+2023-09-26 22:29:11,347 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c49d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:29:11,348 ERROR Server is down with status code None
+2023-09-26 22:29:11,349 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:29:11,716 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:29:11,717 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:29:16,743 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c6e60>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:29:16,743 ERROR Server is down with status code None
+2023-09-26 22:29:21,819 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5270>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:29:21,819 ERROR Server is down with status code None
+2023-09-26 22:29:21,820 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:29:22,183 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:29:22,183 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:29:27,255 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340aef0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:29:27,256 ERROR Server is down with status code None
+2023-09-26 22:29:32,290 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340afe0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:29:32,290 ERROR Server is down with status code None
+2023-09-26 22:29:32,291 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:29:32,645 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:29:32,646 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:29:37,673 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c4753b80>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:29:37,673 ERROR Server is down with status code None
+2023-09-26 22:29:42,770 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c4753790>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:29:42,771 ERROR Server is down with status code None
+2023-09-26 22:29:42,772 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:29:43,281 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:29:43,281 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:29:48,311 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5c90>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:29:48,312 ERROR Server is down with status code None
+2023-09-26 22:29:53,342 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c6710>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:29:53,343 ERROR Server is down with status code None
+2023-09-26 22:29:53,344 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:29:53,677 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:29:53,677 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:29:58,705 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c7550>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:29:58,705 ERROR Server is down with status code None
+2023-09-26 22:30:03,733 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c6d70>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:30:03,733 ERROR Server is down with status code None
+2023-09-26 22:30:03,734 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:30:04,082 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:30:04,082 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:30:09,111 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5540>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:30:09,111 ERROR Server is down with status code None
+2023-09-26 22:30:14,137 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5360>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:30:14,137 ERROR Server is down with status code None
+2023-09-26 22:30:14,138 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:30:14,503 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:30:14,503 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:30:19,529 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c45b0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:30:19,530 ERROR Server is down with status code None
+2023-09-26 22:30:24,564 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c72e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:30:24,564 ERROR Server is down with status code None
+2023-09-26 22:30:24,566 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:30:24,901 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:30:24,901 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:30:29,925 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340afe0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:30:29,927 ERROR Server is down with status code None
+2023-09-26 22:30:34,953 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340bbb0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:30:34,953 ERROR Server is down with status code None
+2023-09-26 22:30:34,954 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:30:35,293 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:30:35,293 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:30:40,377 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c4753190>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:30:40,377 ERROR Server is down with status code None
+2023-09-26 22:30:45,406 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c4753af0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:30:45,407 ERROR Server is down with status code None
+2023-09-26 22:30:45,408 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:30:45,795 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:30:45,795 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:30:50,825 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c66e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:30:50,825 ERROR Server is down with status code None
+2023-09-26 22:30:55,855 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5e40>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:30:55,855 ERROR Server is down with status code None
+2023-09-26 22:30:55,856 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:30:56,299 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:30:56,313 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:31:01,347 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5210>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:31:01,348 ERROR Server is down with status code None
+2023-09-26 22:31:06,373 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c4b20>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:31:06,374 ERROR Server is down with status code None
+2023-09-26 22:31:06,375 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:31:06,717 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:31:06,718 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:31:11,743 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c4250>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:31:11,743 ERROR Server is down with status code None
+2023-09-26 22:31:16,767 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c7370>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:31:16,768 ERROR Server is down with status code None
+2023-09-26 22:31:16,769 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:31:17,111 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:31:17,112 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:31:22,139 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c7130>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:31:22,139 ERROR Server is down with status code None
+2023-09-26 22:31:27,165 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5f60>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:31:27,165 ERROR Server is down with status code None
+2023-09-26 22:31:27,166 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:31:27,489 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:31:27,490 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:31:32,519 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340bbb0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:31:32,520 ERROR Server is down with status code None
+2023-09-26 22:31:37,544 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340b5e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:31:37,545 ERROR Server is down with status code None
+2023-09-26 22:31:37,546 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:31:37,902 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:31:37,902 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:31:42,928 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c47531c0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:31:42,928 ERROR Server is down with status code None
+2023-09-26 22:31:47,956 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c4753cd0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:31:47,956 ERROR Server is down with status code None
+2023-09-26 22:31:47,957 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:31:48,274 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:31:48,274 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:31:53,303 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c41f0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:31:53,304 ERROR Server is down with status code None
+2023-09-26 22:31:58,340 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c6920>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:31:58,342 ERROR Server is down with status code None
+2023-09-26 22:31:58,343 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:31:58,673 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:31:58,673 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:32:03,700 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5fc0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:32:03,700 ERROR Server is down with status code None
+2023-09-26 22:32:08,732 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c7490>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:32:08,733 ERROR Server is down with status code None
+2023-09-26 22:32:08,734 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:32:09,048 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:32:09,048 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:32:14,077 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c6920>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:32:14,079 ERROR Server is down with status code None
+2023-09-26 22:32:19,105 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c6410>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:32:19,105 ERROR Server is down with status code None
+2023-09-26 22:32:19,106 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:32:19,447 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:32:19,447 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:32:24,472 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5600>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:32:24,473 ERROR Server is down with status code None
+2023-09-26 22:32:29,687 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c54e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:32:29,689 ERROR Server is down with status code None
+2023-09-26 22:32:29,692 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:32:30,090 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:32:30,090 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:32:35,240 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340b5e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:32:35,240 ERROR Server is down with status code None
+2023-09-26 22:32:40,264 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c340b0a0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:32:40,264 ERROR Server is down with status code None
+2023-09-26 22:32:40,265 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:32:40,584 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:32:40,584 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:32:45,608 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c47531f0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:32:45,608 ERROR Server is down with status code None
+2023-09-26 22:32:50,634 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c4753880>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:32:50,634 ERROR Server is down with status code None
+2023-09-26 22:32:50,635 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:32:50,966 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:32:50,966 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:32:55,995 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5690>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:32:55,995 ERROR Server is down with status code None
+2023-09-26 22:33:01,024 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c4970>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:33:01,024 ERROR Server is down with status code None
+2023-09-26 22:33:01,025 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:33:01,354 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:33:01,354 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:33:06,385 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c6d10>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:33:06,386 ERROR Server is down with status code None
+2023-09-26 22:33:11,410 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5270>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:33:11,411 ERROR Server is down with status code None
+2023-09-26 22:33:11,414 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:33:11,724 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:33:11,724 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 22:33:16,749 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c7190>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:33:16,749 ERROR Server is down with status code None
+2023-09-26 22:33:21,782 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f66c32c5510>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 22:33:21,783 ERROR Server is down with status code None
+2023-09-26 22:33:21,784 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 22:33:22,291 ERROR Failed to send email: <HttpError 400 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "'raw' RFC822 payload message string or uploading message via /upload/* URL required". Details: "[{'message': "'raw' RFC822 payload message string or uploading message via /upload/* URL required", 'domain': 'global', 'reason': 'invalidArgument'}]">
+2023-09-26 22:33:22,292 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:38:09,753 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7a13173640>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:38:09,755 ERROR Server is down with status code None
+2023-09-26 23:38:14,780 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7a13173730>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:38:14,780 ERROR Server is down with status code None
+2023-09-26 23:38:14,782 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 23:38:14,789 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 23:38:14,789 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:38:19,812 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7a13173a60>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:38:19,812 ERROR Server is down with status code None
+2023-09-26 23:38:24,833 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7a13173dc0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:38:24,833 ERROR Server is down with status code None
+2023-09-26 23:38:24,837 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 23:38:24,845 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 23:38:24,845 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:38:29,868 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7a13030070>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:38:29,869 ERROR Server is down with status code None
+2023-09-26 23:38:34,891 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7a13030040>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:38:34,892 ERROR Server is down with status code None
+2023-09-26 23:38:34,893 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 23:38:34,901 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 23:38:34,901 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:38:39,923 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7a13032410>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:38:39,924 ERROR Server is down with status code None
+2023-09-26 23:38:44,950 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7a13032680>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:38:44,951 ERROR Server is down with status code None
+2023-09-26 23:38:44,952 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 23:38:44,961 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 23:38:44,961 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:38:49,984 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7a130cd2d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:38:49,985 ERROR Server is down with status code None
+2023-09-26 23:38:55,004 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7a130cea40>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:38:55,005 ERROR Server is down with status code None
+2023-09-26 23:38:55,006 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 23:38:55,015 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 23:38:55,015 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:39:00,041 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7a130cf3a0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:39:00,042 ERROR Server is down with status code None
+2023-09-26 23:39:05,064 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7a130cf280>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:39:05,064 ERROR Server is down with status code None
+2023-09-26 23:39:05,065 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 23:39:05,074 ERROR Failed to send email: Object of type bytes is not JSON serializable
+2023-09-26 23:39:05,074 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:42:38,421 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f559829f670>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:42:38,421 ERROR Server is down with status code None
+2023-09-26 23:42:43,451 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f559829f760>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:42:43,452 ERROR Server is down with status code None
+2023-09-26 23:42:43,453 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 23:42:43,988 INFO Message ID: 18ad4bb5e8afed56
+2023-09-26 23:42:43,988 INFO Thread ID: 18ad4bb5e8afed56
+2023-09-26 23:42:43,988 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:42:49,013 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f559829fa90>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:42:49,013 ERROR Server is down with status code None
+2023-09-26 23:42:54,038 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f559829fdf0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:42:54,039 ERROR Server is down with status code None
+2023-09-26 23:42:54,040 INFO file_cache is only supported with oauth2client<4.0.0
+2023-09-26 23:42:54,492 INFO Message ID: 18ad4bb8633f6f14
+2023-09-26 23:42:54,492 INFO Thread ID: 18ad4bb8633f6f14
+2023-09-26 23:42:54,493 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:50:51,741 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef982036a0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:50:51,743 ERROR Server is down with status code None
+2023-09-26 23:50:56,773 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef98203790>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:50:56,776 ERROR Server is down with status code None
+2023-09-26 23:50:57,395 INFO Message ID: 18ad4c2e551dd725
+2023-09-26 23:50:57,395 INFO Thread ID: 18ad4c2e551dd725
+2023-09-26 23:50:57,395 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:51:02,423 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef98203b50>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:51:02,423 ERROR Server is down with status code None
+2023-09-26 23:51:07,446 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef98203c40>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:51:07,447 ERROR Server is down with status code None
+2023-09-26 23:51:07,894 INFO Message ID: 18ad4c30f72ae1f3
+2023-09-26 23:51:07,894 INFO Thread ID: 18ad4c30f72ae1f3
+2023-09-26 23:51:07,895 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:51:12,921 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef98203e50>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:51:12,922 ERROR Server is down with status code None
+2023-09-26 23:51:17,949 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef98203970>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:51:17,952 ERROR Server is down with status code None
+2023-09-26 23:51:18,411 INFO Message ID: 18ad4c33858e7063
+2023-09-26 23:51:18,411 INFO Thread ID: 18ad4c33858e7063
+2023-09-26 23:51:18,411 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:51:23,436 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef980bc160>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:51:23,436 ERROR Server is down with status code None
+2023-09-26 23:51:28,459 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef980bc820>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:51:28,459 ERROR Server is down with status code None
+2023-09-26 23:51:28,916 INFO Message ID: 18ad4c361d89c7f0
+2023-09-26 23:51:28,916 INFO Thread ID: 18ad4c361d89c7f0
+2023-09-26 23:51:28,916 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:51:33,941 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef98162320>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:51:33,942 ERROR Server is down with status code None
+2023-09-26 23:51:38,970 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef98160c10>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:51:38,971 ERROR Server is down with status code None
+2023-09-26 23:51:39,538 INFO Message ID: 18ad4c38a6d8814b
+2023-09-26 23:51:39,538 INFO Thread ID: 18ad4c38a6d8814b
+2023-09-26 23:51:39,538 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:51:44,566 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef98162860>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:51:44,567 ERROR Server is down with status code None
+2023-09-26 23:51:49,597 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef98160220>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:51:49,598 ERROR Server is down with status code None
+2023-09-26 23:51:50,136 INFO Message ID: 18ad4c3b378b6b51
+2023-09-26 23:51:50,136 INFO Thread ID: 18ad4c3b378b6b51
+2023-09-26 23:51:50,136 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:51:55,166 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef982039d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:51:55,166 ERROR Server is down with status code None
+2023-09-26 23:52:00,192 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef982035b0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:52:00,193 ERROR Server is down with status code None
+2023-09-26 23:52:00,652 INFO Message ID: 18ad4c3dc6fa5460
+2023-09-26 23:52:00,653 INFO Thread ID: 18ad4c3dc6fa5460
+2023-09-26 23:52:00,653 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:52:05,686 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef98203190>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:52:05,687 ERROR Server is down with status code None
+2023-09-26 23:52:10,716 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef98203b80>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:52:10,717 ERROR Server is down with status code None
+2023-09-26 23:52:11,351 INFO Message ID: 18ad4c4070bdafd2
+2023-09-26 23:52:11,351 INFO Thread ID: 18ad4c4070bdafd2
+2023-09-26 23:52:11,351 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:52:16,382 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef980bed70>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:52:16,383 ERROR Server is down with status code None
+2023-09-26 23:52:21,411 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef980be080>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:52:21,412 ERROR Server is down with status code None
+2023-09-26 23:52:21,870 INFO Message ID: 18ad4c42f90a58b3
+2023-09-26 23:52:21,870 INFO Thread ID: 18ad4c42f90a58b3
+2023-09-26 23:52:21,871 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-26 23:52:26,895 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef980bc550>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:52:26,895 ERROR Server is down with status code None
+2023-09-26 23:52:31,922 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef980be5c0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-26 23:52:31,922 ERROR Server is down with status code None
+2023-09-26 23:52:32,381 INFO Message ID: 18ad4c458309c51b
+2023-09-26 23:52:32,382 INFO Thread ID: 18ad4c458309c51b
+2023-09-26 23:52:32,382 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-27 01:05:46,976 INFO "GET /?state=FVTZ4LhFWv7J8LiANrOyOv52IP9kqW&code=4/0AfJohXnpz8S9eG64bWIkJxvTcT0Z1HdGq-FkZ2cDzVpN8Hyzma19pDOv0O8epvK1eeTD6w&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2023-09-27 01:05:47,652 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f31d59137c0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-27 01:05:47,652 ERROR Server is down with status code None
+2023-09-27 01:05:52,678 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f31d59138b0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-27 01:05:52,678 ERROR Server is down with status code None
+2023-09-27 01:05:53,214 INFO Message ID: 18ad5077ea420dc2
+2023-09-27 01:05:53,215 INFO Thread ID: 18ad5077ea420dc2
+2023-09-27 01:05:53,215 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-27 01:05:58,240 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f31d5913c70>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-27 01:05:58,240 ERROR Server is down with status code None
+2023-09-27 01:06:03,271 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f31d5913d60>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-27 01:06:03,271 ERROR Server is down with status code None
+2023-09-27 01:06:03,740 INFO Message ID: 18ad507a9927a253
+2023-09-27 01:06:03,740 INFO Thread ID: 18ad507a9927a253
+2023-09-27 01:06:03,740 INFO Sent an email notification to kristofersimpson@outlook.com
+2023-09-27 01:06:08,769 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f31d57c8070>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-27 01:06:08,769 ERROR Server is down with status code None
+2023-09-27 01:06:13,791 ERROR Failed to ping the server: HTTPConnectionPool(host='lskdjflkasfjfhneu.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f31d57c80a0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2023-09-27 01:06:13,791 ERROR Server is down with status code None
+2023-09-27 01:06:14,257 INFO Message ID: 18ad507d2e9f3a21
+2023-09-27 01:06:14,257 INFO Thread ID: 18ad507d2e9f3a21
+2023-09-27 01:06:14,257 INFO Sent an email notification to kristofersimpson@outlook.com
